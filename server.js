@@ -1,3 +1,5 @@
+"use strict";
+
 const http = require('http');
 const cheerio = require('cheerio');
 const io = require('socket.io')(http);
