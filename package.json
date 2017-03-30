@@ -1,0 +1,21 @@
+{
+  "name": "newmark",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "^4.14.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "0.22.0",
+    "moment": "2.18.1",
+    "socket.io": "1.7.3",
+    "request" : "2.81.0"
+  }
+}
